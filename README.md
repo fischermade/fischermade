@@ -1,4 +1,4 @@
-- Hi, I’m John Fischer!
+- Hi, I’m Claire Fischer!
 - I’m interested in typography and UI design
 - I’m currently learning JavaScript, with an eye towards jQuery and TypeScript
 - I’m looking to collaborate on games,
